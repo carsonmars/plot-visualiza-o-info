@@ -7,6 +7,7 @@ RGM: 32846916
 INSTITUIÇÃO: Cruzeiro do Sul – Graduação EAD
 CURSO: Ciência da Computação
 
+Dados retirados do Portal de Transparência do Estado de Pernambuco: http://web.transparencia.pe.gov.br/despesas/remuneracao/ 
 Link do Dataset: https://github.com/carsonmars/plot-visualizacao-info/tree/main 
 Link vídeo: 
 
