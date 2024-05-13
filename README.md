@@ -9,7 +9,7 @@ CURSO: Ciência da Computação
 
 Dados retirados do Portal de Transparência do Estado de Pernambuco: http://web.transparencia.pe.gov.br/despesas/remuneracao/ 
 Link do Dataset: https://github.com/carsonmars/plot-visualizacao-info/tree/main 
-Link vídeo: 
+Link vídeo: https://www.youtube.com/watch?v=0V1Qk-j3YcI
 
 Plot 1 – Gráfico Treemaps retangulares que mostram os tipos de agentes públicos que atuam na Procuradoria Geral do Estado de Pernambuco (PGE/PE).
 
